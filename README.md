@@ -5,12 +5,9 @@
 - <b>Conducted Security Audit </b>
   - [Security Audit](https://docs.google.com/document/d/1rcN_rmOZqxRfcYGXSZxgxgMGJJAjpbuZqsHAxFGj8as/edit?usp=sharing)
 - <b>Cybersecurity Incident Report</b>
-  - [Incident Report Analysis](https://docs.google.com/document/d/169bH-SM0tutX0K1dO4hZQI62J2ceOo-rwdIeAG9R39Y/edit?usp=sharing&resourcekey=0-ExTC-VeZeoj0R113fhVpCg) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Network Traffic Incident Report Analysis](https://docs.google.com/document/d/169bH-SM0tutX0K1dO4hZQI62J2ceOo-rwdIeAG9R39Y/edit?usp=sharing&resourcekey=0-ExTC-VeZeoj0R113fhVpCg) <b><i></b></i>
+- <b>Cybersecurity Incident Report</b>
+  - [SYN FLooding Incident Report Analysis](https://docs.google.com/document/d/14PsW1Q4qqeUWViO1oeS82ZnRluuWDh6WWYzmdY_Mx9E/edit?usp=sharing)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
