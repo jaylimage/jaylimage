@@ -10,8 +10,8 @@
   - [SYN FLooding Incident Report Analysis](https://docs.google.com/document/d/14PsW1Q4qqeUWViO1oeS82ZnRluuWDh6WWYzmdY_Mx9E/edit?usp=sharing)
 - <b>Using Linux Commands to manage file permissions</b>
   - [Linux - Manage file Lab](https://docs.google.com/document/d/1Vi-SnRXgpG-iBqsLeAnpqN-qAQar6tmBg9400Dl0NBY/edit?usp=sharing)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Apply filters to SQL queries Lab</b>
+  - [Filters In SQL Lab](https://docs.google.com/document/d/1Bq2HkEkuFIzkrOkHrPE3O0vODzQM8pmG1Chl_fmjR0M/edit?usp=sharing&resourcekey=0-ePJAS1Oivz2mnPAJd6Ri0Q)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Python</b>
