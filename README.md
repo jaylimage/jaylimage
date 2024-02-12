@@ -12,8 +12,8 @@
   - [Linux - Manage file Lab](https://docs.google.com/document/d/1Vi-SnRXgpG-iBqsLeAnpqN-qAQar6tmBg9400Dl0NBY/edit?usp=sharing)
 - <b>Apply filters to SQL queries Lab</b>
   - [Filters In SQL Lab](https://docs.google.com/document/d/1Bq2HkEkuFIzkrOkHrPE3O0vODzQM8pmG1Chl_fmjR0M/edit?usp=sharing&resourcekey=0-ePJAS1Oivz2mnPAJd6Ri0Q)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Vulnerability assessment report</b>
+  - [Assessment Report](https://docs.google.com/document/d/1jVgnovPHlaUWxpTk1GcQUnVnGAepYDRg7AgFVmyZ1wk/edit?usp=sharing)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Python</b>
