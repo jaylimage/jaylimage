@@ -15,7 +15,7 @@
 - <b>Vulnerability assessment report</b>
   - [Assessment Report](https://docs.google.com/document/d/1jVgnovPHlaUWxpTk1GcQUnVnGAepYDRg7AgFVmyZ1wk/edit?usp=sharing)
 - <b>Incident Handler's Journal</b>
-  - [Entry 1](https://docs.google.com/document/d/1XtJt7e81J_ebF9sXQyOIDivDFdRwT0Q8ghGPgwmMpQo/edit?usp=sharing)
+  - [Completed Journal](https://docs.google.com/document/d/1HIrUTDPjVP1lfavfSqK_rXxcUvP6ucS1wYbahnU2Rvo/edit?usp=sharing&resourcekey=0-09BbKjpSK_VjuWD7n0OAUQ)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Python</b>
