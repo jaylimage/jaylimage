@@ -17,7 +17,7 @@
 - <b>Incident Handler's Journal</b>
   - [Completed Journal](https://docs.google.com/document/d/1HIrUTDPjVP1lfavfSqK_rXxcUvP6ucS1wYbahnU2Rvo/edit?usp=sharing&resourcekey=0-09BbKjpSK_VjuWD7n0OAUQ)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Update a file through Python algorithm](https://docs.google.com/document/d/10aRe4oG8wNwqBFy3M0Whdqc_ZjvGY4R9Pj1yuxwd_z4/edit?usp=sharing)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Python</b>
