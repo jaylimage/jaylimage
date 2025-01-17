@@ -1,36 +1,27 @@
-<h1>Hi, I'm Jaylen! <br/><a href="https://github.com/joshmadakor1">Entry-level Secuirty Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>
+# <a href="https://www.linkedin.com/in/jaylen-limage/">Jaylen Limage</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-- <b>Conducted Security Audit </b>
-  - [Security Audit](https://docs.google.com/document/d/1rcN_rmOZqxRfcYGXSZxgxgMGJJAjpbuZqsHAxFGj8as/edit?usp=sharing)
-- <b>Cybersecurity Incident Reports</b>
-  - [Incident Report Analysis](https://docs.google.com/document/d/1vUru6XGRRSgFX59WbFw8DJM5KNhGckuF-sZDrpm1Oy4/edit?usp=sharing)
-  - [Network Traffic Incident Report Analysis](https://docs.google.com/document/d/169bH-SM0tutX0K1dO4hZQI62J2ceOo-rwdIeAG9R39Y/edit?usp=sharing&resourcekey=0-ExTC-VeZeoj0R113fhVpCg) 
-  - [SYN FLooding Incident Report Analysis](https://docs.google.com/document/d/14PsW1Q4qqeUWViO1oeS82ZnRluuWDh6WWYzmdY_Mx9E/edit?usp=sharing)
-- <b>Using Linux Commands to manage file permissions</b>
-  - [Linux - Manage file Lab](https://docs.google.com/document/d/1Vi-SnRXgpG-iBqsLeAnpqN-qAQar6tmBg9400Dl0NBY/edit?usp=sharing)
-- <b>Apply filters to SQL queries Lab</b>
-  - [Filters In SQL Lab](https://docs.google.com/document/d/1Bq2HkEkuFIzkrOkHrPE3O0vODzQM8pmG1Chl_fmjR0M/edit?usp=sharing&resourcekey=0-ePJAS1Oivz2mnPAJd6Ri0Q)
-- <b>Vulnerability assessment report</b>
-  - [Assessment Report](https://docs.google.com/document/d/1jVgnovPHlaUWxpTk1GcQUnVnGAepYDRg7AgFVmyZ1wk/edit?usp=sharing)
-- <b>Incident Handler's Journal</b>
-  - [Completed Journal](https://docs.google.com/document/d/1HIrUTDPjVP1lfavfSqK_rXxcUvP6ucS1wYbahnU2Rvo/edit?usp=sharing&resourcekey=0-09BbKjpSK_VjuWD7n0OAUQ)
-- <b>Python</b>
-  - [Update a file through Python algorithm](https://docs.google.com/document/d/10aRe4oG8wNwqBFy3M0Whdqc_ZjvGY4R9Pj1yuxwd_z4/edit?usp=sharing)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
+[linkedin]: https://linkedin.com/in/jaylen-limage
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
